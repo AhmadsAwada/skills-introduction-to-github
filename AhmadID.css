@@ -1,0 +1,33 @@
+*
+.Title1{
+    background-color: greenyellow;
+    color: #d00505;
+    height: 60px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.links{
+    background-color: rgb(4, 241, 107);
+    margin-bottom: 10px;
+    left: 10px;
+    padding: 5px;
+}
+.news h4 {
+    background-color: rgb(0, 115, 255);
+    width: 30%;
+    left: 30%;
+    height: 500px;
+    margin-right: 20px;
+}
+.title2 h2 {
+    width: 63%;
+    right: floating;
+    height: 500px;
+    margin-right: 20px;
+    text-decoration: underline;
+    background-color:rgb(31, 240, 255) ;
+}
+.foot center{
+padding-top: 15px;
+bottom: 15px;
+}
